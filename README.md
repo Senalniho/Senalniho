@@ -2,6 +2,19 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Master+of+Engineering;Renewable+Energy+Enthusiast;Full+Stack+Developer;AI+%26+Machine+Learning+Practitioner" alt="Typing SVG" />
 </div>
+💬 Ask me about Node.js, React, Firebase, MongoDB... or anything here
+⚡ Fun fact: Game of Thrones Night's Watch cloaks are made from Ikea rugs
+<div align="center">
+  <a href="mailto:senanuadjabeng1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/adjabengsenanu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://senanuadjabeng.com">
+    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 🚀 Quick Facts
 
 🎓 Master of Engineering in Energy and Environmental Management
@@ -9,22 +22,22 @@
 🌱 Passionate about renewable energy and sustainable technologies
 💻 Full Stack Developer with a focus on energy-related applications
 🤖 AI and Machine Learning enthusiast, especially for energy forecasting
+🌍 Committed to developing solutions for climate change mitigation
+🚀 Always learning and exploring new technologies
 
+🛠️ Languages-Frameworks-Tools 🛠️
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,python,r,mongodb,firebase,git,vscode,atom,bootstrap,figma&perline=8" />
+</div>
+📊 My Contributions 📊
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senanuadjabeng&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=senanuadjabeng&show_icons=true&theme=tokyonight" alt="Senanu's GitHub stats" />
 </div>
-🛠️ Technologies & Tools
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senanuadjabeng&theme=tokyonight" alt="GitHub Streak" />
 </div>
 🌟 Featured Projects
 <div align="center">
@@ -43,12 +56,6 @@ R            2 hrs 45 mins   ████▒░░░░░░░░░░░░
 Markdown     1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 <!--END_SECTION:waka-->
-📫 Let's Connect!
-<div align="center">
-Show Image
-Show Image
-Show Image
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=senanuadjabeng&color=blueviolet" alt="Profile views" />
