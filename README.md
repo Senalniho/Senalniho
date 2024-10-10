@@ -15,15 +15,19 @@
     <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-🚀 Quick Facts
 
-🎓 Master of Engineering in Energy and Environmental Management
-💼 Guest Researcher in Climate Tech and AI for Climate Risk
-🌱 Passionate about renewable energy and sustainable technologies
-💻 Full Stack Developer with a focus on energy-related applications
-🤖 AI and Machine Learning enthusiast, especially for energy forecasting
-🌍 Committed to developing solutions for climate change mitigation
-🚀 Always learning and exploring new technologies
+<div align="center">
+  🚀 Quick Facts <br/>
+🎓 Master of Engineering in Energy and Environmental Management <br/>
+💼 Guest Researcher in Climate Tech and AI for Climate Risk <br/>
+🌱 Passionate about renewable energy and sustainable technologies<br/>
+💻 Full Stack Developer with a focus on energy-related applications<br/>
+🤖 AI and Machine Learning enthusiast, especially for energy forecasting<br/>
+🌍 Committed to developing solutions for climate change mitigation<br/>
+🚀 Always learning and exploring new technologies<br/>
+  
+</div>
+
 
 🛠️ Languages-Frameworks-Tools 🛠️
 <div align="center">
