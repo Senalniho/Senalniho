@@ -1,24 +1,24 @@
-# 👋 Hello, I'm Senanu Adjabeng!
+<div align="center">
+
+  # 👋 Hello, I'm Senanu Adjabeng!
+</div>
+
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Master+of+Engineering;Renewable+Energy+Enthusiast;Full+Stack+Developer;AI+%26+Machine+Learning+Practitioner" alt="Typing SVG" />
 </div>
 
----
-
 ## 🚀 About Me: Tech Wizard Saving the Planet! 🌍✨
 
-Hey there! I'm Senanu, a climate tech enthusiast with a passion for turning coffee ☕ into code 💻 and data into renewable energy solutions 🌞⚡.
+Hey there! I'm Senanu, your friendly neighborhood climate tech enthusiast with a knack for turning coffee ☕ into code 💻 and data into renewable energy solutions 🌞⚡
 
-- 🎓 **Master's in Engineering** with sustainable dreams
-- 🔮 **Day job**: Guest Researcher weaving AI magic to fight climate change
-- 🌙 **Night shift**: Full Stack Developer crafting digital solutions for a greener future
+🎓 Armed with a Master's in Engineering and a brain full of sustainable dreams  
+🔮 By day: Guest Researcher, weaving AI magic to fight climate change  
+🌙 By night: Full Stack Developer, crafting digital potions for a greener future
 
-I’m on a mission to make renewable energy as ubiquitous as cat videos on the internet. My superpower? Transforming complex energy data into actionable insights, faster than you can say "solar-powered hoverboard" (which should totally be a thing).
-
-Whether I'm predicting energy demand like a psychic octopus 🐙 or optimizing solar farms, I'm always up for a challenge and a well-timed pun.
-
----
+I'm on a quest to make renewable energy as ubiquitous as cat videos on the internet. My superpower? Transforming complex energy data into actionable insights faster than you can say "solar-powered hoverboard" (which, by the way, should totally be a thing). Whether I'm predicting energy demand with the accuracy of a psychic octopus 🐙 or optimizing solar farms to catch more rays than a beach in July, I'm always up for a good challenge and a bad pun.
 
 ## 📫 Connect With Me
 
@@ -34,19 +34,15 @@ Whether I'm predicting energy demand like a psychic octopus 🐙 or optimizing s
   </a>
 </div>
 
----
-
 ## 💡 Quick Facts
 
-- 🎓 **Master of Engineering** in Energy and Environmental Management
-- 💼 **Guest Researcher** in Climate Tech and AI for Climate Risk
-- 🌱 Passionate about **renewable energy** and **sustainable technologies**
-- 💻 **Full Stack Developer** focused on energy-related applications
-- 🤖 **AI & ML Enthusiast**, especially for energy forecasting
-- 🌍 Committed to **climate change mitigation** through tech
-- 🚀 Lifelong learner, always exploring new technologies
-
----
+- 🎓 Master of Engineering in Energy and Environmental Management
+- 💼 Guest Researcher in Climate Tech and AI for Climate Risk
+- 🌱 Passionate about renewable energy and sustainable technologies
+- 💻 Full Stack Developer with a focus on energy-related applications
+- 🤖 AI and Machine Learning enthusiast, especially for energy forecasting
+- 🌍 Committed to developing solutions for climate change mitigation
+- 🚀 Always learning and exploring new technologies
 
 ## 🛠️ Languages, Frameworks & Tools
 
@@ -54,17 +50,17 @@ Whether I'm predicting energy demand like a psychic octopus 🐙 or optimizing s
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,python,r,mongodb,firebase,git,vscode,atom,bootstrap,figma&perline=8" />
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senalniho&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Senalniho&show_icons=true&theme=tokyonight" alt="Senanu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senalniho&layout=compact&theme=tokyonight" alt="Top Languages by Repo" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Senalniho&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Senalniho&show_icons=true&theme=tokyonight" alt="Senanu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senalniho&langs_count=8&theme=tokyonight" alt="Top Languages by Commit" />
+</div>
 
 ## 🌟 Featured Projects
 
@@ -77,15 +73,24 @@ Whether I'm predicting energy demand like a psychic octopus 🐙 or optimizing s
   </a>
 </div>
 
+## 💬 Ask Me Anything!
+
+I'm always up for a tech chat! Whether you're curious about how **Node.js** powers the web, or you need advice on scaling a **React** app, I'm your go-to! Got questions about **Firebase**, **MongoDB**, or anything related to full-stack development? Let's talk tech and beyond! 
+
+🚀 I'm passionate about:
+- Full Stack Development 🖥️
+- Renewable Energy Solutions 🌞
+- AI & Machine Learning for Climate Tech 🤖
+- Turning ideas into action 🛠️
+
+Let’s connect, collaborate, or just geek out over the latest in tech!
+
 ---
 
-## ⏳ Weekly Coding Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       7 hrs 30 mins   ███████████▓░░░░░░░░░░░░░   46.57 % 
-JavaScript   4 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.09 % 
-R            2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Markdown     1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+<div align="center">
+  <h3>☕ If you found my work helpful or just want to show some love, you can support me by buying me a coffee!</h3>
+  <a href="https://www.buymeacoffee.com/senalnihog" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+  </a>
+</div>
 
