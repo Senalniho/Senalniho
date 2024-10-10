@@ -35,13 +35,13 @@
 </div>
 📊 My Contributions 📊
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senanuadjabeng&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senalniho&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senanuadjabeng&show_icons=true&theme=tokyonight" alt="Senanu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Senalniho&show_icons=true&theme=tokyonight" alt="Senanu's GitHub stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senanuadjabeng&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Senalniho&theme=tokyonight" alt="GitHub Streak" />
 </div>
 🌟 Featured Projects
 <div align="center">
@@ -49,7 +49,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senalniho&repo=Ontario_Demand_Forecast&theme=tokyonight" />
   </a>
   <a href="https://senstate.up.railway.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senalniho&repo=Senstate&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senalniho&repo=mern-estate&theme=tokyonight" />
   </a>
 </div>
 📊 This Week I Spent My Time On
@@ -62,7 +62,7 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=senanuadjabeng&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=senalniho&color=blueviolet" alt="Profile views" />
   <br><br>
-  <a href="https://www.buymeacoffee.com/senanuadjabeng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/senalnihog" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
